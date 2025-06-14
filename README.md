@@ -25,13 +25,9 @@ To automate the assessment of embryo viability using deep learning techniques, m
 
 ## File Structure
 ├── Baseline_for_Embryo_Classification_Last.ipynb # Full training and evaluation pipeline
-
 ├── Report_Deep Learning for Embryo Classification in IVF.pdf # Full methodology and results
-
 ├── EEE406-Slide_Suat-Abdulkadir-Berkay.pptx # Presentation slides
-
 ├── Submission & Leaderboard Clarification.pdf # Late submission explanation to Kaggle
-
 └── README.md
 
 
