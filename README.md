@@ -7,7 +7,7 @@ This project was developed for the **World Championship 2023 - Embryo Classifica
 ## Objective
 To automate the assessment of embryo viability using deep learning techniques, minimizing subjectivity and improving efficiency in IVF procedures.
 
-## 🗂Dataset
+## Dataset
 - ~1,000 high-resolution Day 3 & Day 5 embryo images
 - Binary labels: `Good` vs `Not Good`
 - 80/20 stratified train-validation split
@@ -16,7 +16,7 @@ To automate the assessment of embryo viability using deep learning techniques, m
 ##  Models Used (Transfer Learning)
 - MobileNetV3Large
 - EfficientNetB0
-- DenseNet121 (🏆 Best model with 81% val. accuracy and 0.73333 public score)
+- DenseNet121 ( Best model with 81% val. accuracy and 0.73333 public score)
 
 ## Evaluation Metrics
 - Accuracy, Precision, Recall, F1-score
@@ -35,23 +35,23 @@ To automate the assessment of embryo viability using deep learning techniques, m
 └── README.md
 
 
-## 🏅 Kaggle Competition Result
+## Kaggle Competition Result
 - Public score: **0.73333**
 - Estimated rank: **15th globally**
 - Note: Due to late submission, team `"kadirdaglar"` did not appear on the official leaderboard, but result was valid and acknowledged in academic context.
 
-## 📌 Team Members
+## Team Members
 - Suat Deniz   
 - Abdulkadir Dağlar  
 - Berkay Caplık 
 
-## 🔮 Future Work
+## Future Work
 - Grad-CAM visualizations for clinical interpretability
 - Larger dataset collection
 - Multi-class classification aligned with clinical grading
 - Ensemble model for performance boost
 
-## 📄 License
+## License
 This project is intended **solely for academic demonstration purposes** as part of EEE406 coursework. Redistribution, modification, or commercial use of the code is **not permitted** without explicit permission from the authors.
 
 Please note: The dataset used in this project belongs to the [Kaggle World Championship 2023 Embryo Classification](https://www.kaggle.com/competitions/world-championship-2023-embryo-classification) and is subject to their terms of use.
