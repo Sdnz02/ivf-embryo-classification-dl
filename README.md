@@ -25,9 +25,13 @@ To automate the assessment of embryo viability using deep learning techniques, m
 
 ## File Structure
 ├── Baseline_for_Embryo_Classification_Last.ipynb # Full training and evaluation pipeline
+
 ├── Report_Deep Learning for Embryo Classification in IVF.pdf # Full methodology and results
+
 ├── EEE406-Slide_Suat-Abdulkadir-Berkay.pptx # Presentation slides
+
 ├── Submission & Leaderboard Clarification.pdf # Late submission explanation to Kaggle
+
 └── README.md
 
 
@@ -37,9 +41,9 @@ To automate the assessment of embryo viability using deep learning techniques, m
 - Note: Due to late submission, team `"kadirdaglar"` did not appear on the official leaderboard, but result was valid and acknowledged in academic context.
 
 ## 📌 Team Members
-- Suat Deniz – 2006102002  
-- Abdulkadir Dağlar – 2006102033  
-- Berkay Caplık – 2206102900  
+- Suat Deniz   
+- Abdulkadir Dağlar  
+- Berkay Caplık 
 
 ## 🔮 Future Work
 - Grad-CAM visualizations for clinical interpretability
