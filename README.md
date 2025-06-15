@@ -1,5 +1,3 @@
-# ivf-embryo-classification-dl
-
 # Deep Learning for Embryo Classification in IVF
 
 This project was developed for the **World Championship 2023 - Embryo Classification Challenge** on Kaggle as part of the EEE406 - Fundamentals of Biomedical Signal Processing course.
